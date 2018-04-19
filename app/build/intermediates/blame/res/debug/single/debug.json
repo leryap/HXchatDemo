@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mylocationdemotab4.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mylocationdemotab4.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mylocationdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mylocationdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_background.9.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_background.9.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_markeroverlaydemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\markeroverlaydemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_buslineidsearchdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\buslineidsearchdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapprojectiondemotab1.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mapprojectiondemotab1.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_busroute_change_bus.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_busroute_change_bus.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_route_mid.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_route_mid.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_textoverlaydemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\textoverlaydemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pop.9.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\pop.9.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_overlay_turn_sel.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_overlay_turn_sel.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_route_end.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_route_end.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemizedoverlaydemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\itemizedoverlaydemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_offlinemapdemolist.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\offlinemapdemolist.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_activitylogodemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\activitylogodemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mylocationdemotab3.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mylocationdemotab3.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapcontrolldemotab3.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mapcontrolldemotab3.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bus_station.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_bus_station.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemizedoverlaydemotab2.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\itemizedoverlaydemotab2.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_geometryoverlaydemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\geometryoverlaydemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_overlay_nearby_center.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable-hdpi\\icon_overlay_nearby_center.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_geodecodedemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\geodecodedemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_offlinemapdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\offlinemapdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_overlay_turn.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_overlay_turn.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_offlinemapview.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\offlinemapview.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mylocationdemotab2.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mylocationdemotab2.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_poisearchdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\poisearchdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poiresult.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\poiresult.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_overlay_nearby_center.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_overlay_nearby_center.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_buslinekeysearchdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\buslinekeysearchdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poi_xml.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\poi_xml.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_drivingdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\drivingdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_locate_sel.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\btn_locate_sel.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapcontrolldemotab1.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mapcontrolldemotab1.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tips_arrow.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\tips_arrow.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_route_start.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_route_start.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_busroute_change_sub.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_busroute_change_sub.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\popview.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_overlaydemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\overlaydemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_busroute_change_walk.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\icon_busroute_change_walk.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mylocationdemotab1.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mylocationdemotab1.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapprojectiondemotab2.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mapprojectiondemotab2.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_transitsearch.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\transitsearch.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_maplayerdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\maplayerdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapcontrolldemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mapcontrolldemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_busstationidsearchdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\busstationidsearchdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapcontrolldemotab2.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mapcontrolldemotab2.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemizedoverlaydemotab1.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\itemizedoverlaydemotab1.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poiresult_sel.png.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\drawable\\poiresult_sel.png"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapviewdemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mapviewdemo.xml"
+    },
+    {
+        "merged": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\build\\intermediates\\res\\merged\\debug\\layout_mapprojectiondemo.xml.flat",
+        "source": "E:\\importWs\\examples\\androidSDKDemo_V3.0.11\\app\\src\\main\\res\\layout\\mapprojectiondemo.xml"
+    }
+]
